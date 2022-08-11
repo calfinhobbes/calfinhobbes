@@ -16,3 +16,14 @@ Here are some ideas to get you started:
 -->
 
 - Hey! I'm Fin, a programmer that creates a wide variety of stupid projects.
+- Right now I have nothing on my profile, I know, but that should change shortly.
+
+### I specialize in:
+
+# Languages:
+- Python
+- Java/C# (they're basically the same in terms of syntax)
+- HTML/JS
+# Software:
+- VS Code
+- Eclipse IDE
